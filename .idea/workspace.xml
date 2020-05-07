@@ -17,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -407,7 +413,7 @@
       <workItem from="1588728081893" duration="3354000" />
       <workItem from="1588753065392" duration="2093000" />
       <workItem from="1588817065008" duration="1840000" />
-      <workItem from="1588839805656" duration="636000" />
+      <workItem from="1588839805656" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1588840111020</created>
@@ -430,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588840139672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="123">
+      <created>1588840477338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588840477338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,14 +454,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-2289" y="174" key="#Notifications" timestamp="1588841531248">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-2289" y="174" key="#Notifications/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841531248" />
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588061089092">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1588061089092" />
-    <state x="-2278" y="111" key="CommitChangelistDialog2" timestamp="1588840139572">
+    <state x="-2278" y="111" key="CommitChangelistDialog2" timestamp="1588840477253">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
+    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588840477253" />
     <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588840139572" />
+    <state x="-2465" y="172" key="DiffContextDialog" timestamp="1588841070960">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-2465" y="172" key="DiffContextDialog/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841070960" />
     <state width="1185" height="328" key="GridCell.Tab.0.bottom" timestamp="1588839802216">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
@@ -529,10 +551,18 @@
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-1787" y="144" key="SettingsEditor/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588233480227" />
+    <state x="-2289" y="249" key="Vcs.Push.Dialog.v2" timestamp="1588841521591">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-2289" y="249" key="Vcs.Push.Dialog.v2/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841521591" />
     <state x="-2084" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588840093771">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-2084" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588840093771" />
+    <state x="-2105" y="380" key="git4idea.rebase.GitRebaseDialog" timestamp="1588840662480">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-2105" y="380" key="git4idea.rebase.GitRebaseDialog/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588840662480" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_7$.coverage" NAME="看图猜成语获取验证码 Coverage Results" MODIFIED="1588835405853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/看图猜成语" />
