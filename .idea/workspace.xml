@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dbdec62-44d6-4e6e-9486-3f6c7c2077ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ammqXRr7AOifdQRTKs8oLkqZId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.看图猜成语获取验证码">
+    <configuration name="疯狂猜成语获取验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语获取验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="看图猜成语获取验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看图猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看图猜成语/看图猜成语获取验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="看图猜成语获取验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看图猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看图猜成语/看图猜成语获取验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语清理师徒关系" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语清理师徒关系" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="章鱼输入法刷新云控" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/章鱼输入法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/章鱼输入法/章鱼输入法刷新云控.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="她星球修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/她星球" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/她星球/她星球修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语清理师徒关系" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语清理师徒关系" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="疯狂猜成语修改服务器时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="项目使用工具（2.7）" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/疯狂猜成语" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.看图猜成语获取验证码" />
+        <item itemvalue="Python.疯狂猜成语修改服务器时间" />
+        <item itemvalue="Python.疯狂猜成语获取验证码" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dbdec62-44d6-4e6e-9486-3f6c7c2077ed" name="Default Changelist" comment="" />
+      <created>1587349334360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587349334360</updated>
+      <workItem from="1587349335923" duration="2000" />
+      <workItem from="1587349356888" duration="99000" />
+      <workItem from="1587349467112" duration="4138000" />
+      <workItem from="1587435949703" duration="3030000" />
+      <workItem from="1587520084625" duration="6750000" />
+      <workItem from="1587609369171" duration="6256000" />
+      <workItem from="1587710105191" duration="2792000" />
+      <workItem from="1587806889222" duration="3259000" />
+      <workItem from="1587881016482" duration="4034000" />
+      <workItem from="1587954803130" duration="4241000" />
+      <workItem from="1588041068393" duration="7245000" />
+      <workItem from="1588126017537" duration="5556000" />
+      <workItem from="1588213788453" duration="7499000" />
+      <workItem from="1588317003135" duration="3582000" />
+      <workItem from="1588420675993" duration="2490000" />
+      <workItem from="1588492387020" duration="157000" />
+      <workItem from="1588556273624" duration="3705000" />
+      <workItem from="1588594979182" duration="963000" />
+      <workItem from="1588644683956" duration="2969000" />
+      <workItem from="1588728081893" duration="3354000" />
+      <workItem from="1588753065392" duration="2093000" />
+      <workItem from="1588817065008" duration="1069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588061089092">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1588061089092" />
+    <state width="1185" height="328" key="GridCell.Tab.0.bottom" timestamp="1588835405874">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1215" height="344" key="GridCell.Tab.0.bottom/-2560.23.2560.1000/0.23.1440.877@-2560.23.2560.1000" timestamp="1588245149078" />
+    <state width="1185" height="331" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588753050793" />
+    <state width="1185" height="328" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588835405874" />
+    <state width="1227" height="211" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.820@0.23.1440.820" timestamp="1587913056732" />
+    <state width="1185" height="328" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.821@-2560.23.2560.1057" timestamp="1588764628793" />
+    <state width="1215" height="344" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1588152102294" />
+    <state width="1227" height="290" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.824@-2560.23.2560.1057" timestamp="1587639554301" />
+    <state width="1153" height="273" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1587982933161" />
+    <state width="1215" height="273" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.827@-2560.23.2560.1057" timestamp="1588061917266" />
+    <state width="1171" height="290" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.832@-2560.23.2560.1057" timestamp="1587372219670" />
+    <state width="1171" height="290" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1440.833@-2560.23.2560.1057" timestamp="1587388119435" />
+    <state width="1215" height="268" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1588683243296" />
+    <state width="1185" height="328" key="GridCell.Tab.0.center" timestamp="1588835405873">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1215" height="344" key="GridCell.Tab.0.center/-2560.23.2560.1000/0.23.1440.877@-2560.23.2560.1000" timestamp="1588245149077" />
+    <state width="1185" height="331" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588753050792" />
+    <state width="1185" height="328" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588835405873" />
+    <state width="1227" height="211" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.820@0.23.1440.820" timestamp="1587913056732" />
+    <state width="1185" height="328" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.821@-2560.23.2560.1057" timestamp="1588764628792" />
+    <state width="1215" height="344" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1588152102293" />
+    <state width="1227" height="290" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.824@-2560.23.2560.1057" timestamp="1587639554300" />
+    <state width="1153" height="273" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1587982933161" />
+    <state width="1215" height="273" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.827@-2560.23.2560.1057" timestamp="1588061917265" />
+    <state width="1171" height="290" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.832@-2560.23.2560.1057" timestamp="1587372219669" />
+    <state width="1171" height="290" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1440.833@-2560.23.2560.1057" timestamp="1587388119434" />
+    <state width="1215" height="268" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1588683243296" />
+    <state width="1185" height="328" key="GridCell.Tab.0.left" timestamp="1588835405872">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1215" height="344" key="GridCell.Tab.0.left/-2560.23.2560.1000/0.23.1440.877@-2560.23.2560.1000" timestamp="1588245149077" />
+    <state width="1185" height="331" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588753050791" />
+    <state width="1185" height="328" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588835405872" />
+    <state width="1227" height="211" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.820@0.23.1440.820" timestamp="1587913056731" />
+    <state width="1185" height="328" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.821@-2560.23.2560.1057" timestamp="1588764628792" />
+    <state width="1215" height="344" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1588152102292" />
+    <state width="1227" height="290" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.824@-2560.23.2560.1057" timestamp="1587639554300" />
+    <state width="1153" height="273" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1587982933160" />
+    <state width="1215" height="273" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.827@-2560.23.2560.1057" timestamp="1588061917264" />
+    <state width="1171" height="290" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.832@-2560.23.2560.1057" timestamp="1587372219668" />
+    <state width="1171" height="290" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1440.833@-2560.23.2560.1057" timestamp="1587388119434" />
+    <state width="1215" height="268" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1588683243295" />
+    <state width="1185" height="328" key="GridCell.Tab.0.right" timestamp="1588835405873">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1215" height="344" key="GridCell.Tab.0.right/-2560.23.2560.1000/0.23.1440.877@-2560.23.2560.1000" timestamp="1588245149077" />
+    <state width="1185" height="331" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588753050793" />
+    <state width="1185" height="328" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588835405873" />
+    <state width="1227" height="211" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.820@0.23.1440.820" timestamp="1587913056732" />
+    <state width="1185" height="328" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.821@-2560.23.2560.1057" timestamp="1588764628793" />
+    <state width="1215" height="344" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1588152102294" />
+    <state width="1227" height="290" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.824@-2560.23.2560.1057" timestamp="1587639554301" />
+    <state width="1153" height="273" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1587982933161" />
+    <state width="1215" height="273" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.827@-2560.23.2560.1057" timestamp="1588061917265" />
+    <state width="1171" height="290" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.832@-2560.23.2560.1057" timestamp="1587372219670" />
+    <state width="1171" height="290" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1440.833@-2560.23.2560.1057" timestamp="1587388119434" />
+    <state width="1215" height="268" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1588683243296" />
+    <state width="1215" height="261" key="GridCell.Tab.1.bottom" timestamp="1588683243229">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1215" height="261" key="GridCell.Tab.1.bottom/0.23.1440.820@0.23.1440.820" timestamp="1588683243229" />
+    <state width="1215" height="261" key="GridCell.Tab.1.center" timestamp="1588683243229">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1215" height="261" key="GridCell.Tab.1.center/0.23.1440.820@0.23.1440.820" timestamp="1588683243229" />
+    <state width="1215" height="261" key="GridCell.Tab.1.left" timestamp="1588683243228">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1215" height="261" key="GridCell.Tab.1.left/0.23.1440.820@0.23.1440.820" timestamp="1588683243228" />
+    <state width="1215" height="261" key="GridCell.Tab.1.right" timestamp="1588683243229">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1215" height="261" key="GridCell.Tab.1.right/0.23.1440.820@0.23.1440.820" timestamp="1588683243229" />
+    <state x="-1787" y="144" key="SettingsEditor" timestamp="1588233480227">
+      <screen x="-2560" y="23" width="2560" height="1057" />
+    </state>
+    <state x="-1787" y="144" key="SettingsEditor/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1588233480227" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2_7$.coverage" NAME="看图猜成语获取验证码 Coverage Results" MODIFIED="1588835405853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/看图猜成语" />
+  </component>
+</project>
