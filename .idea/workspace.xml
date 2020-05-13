@@ -531,6 +531,7 @@
       <workItem from="1589114816928" duration="85000" />
       <workItem from="1589161318263" duration="6088000" />
       <workItem from="1589246031899" duration="2627000" />
+      <workItem from="1589332678948" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1588840111020</created>
@@ -574,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588841587802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改备注">
+      <created>1589332778818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589332778818</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +590,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="修改备注" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改备注" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-2289" y="174" key="#Notifications" timestamp="1588841531248">
@@ -594,11 +603,11 @@
     </state>
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1589010564993" />
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1588061089092" />
-    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1589332743705">
+    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1589332778686">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841587704" />
-    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1589332743705" />
+    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1589332778686" />
     <state x="-2465" y="172" key="DiffContextDialog" timestamp="1588841070960">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
