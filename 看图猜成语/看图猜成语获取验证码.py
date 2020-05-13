@@ -39,7 +39,9 @@ while True:
         if right:
             # print ("检验通过")
             fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile
-            print fullurl
+
+            # print fullurl #打印请求链接
+
             request = urllib2.Request(fullurl)
             response = urllib2.urlopen(request)
             num = response.read()
