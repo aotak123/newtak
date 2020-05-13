@@ -2,7 +2,7 @@
 import urllib2
 import re
 import time
-#ao.tak制作 vol.1.1
+#ao.tak制作 vol.513
 
 
 key = "sLQq2_jaKLknsqAwZ"   #后台使用的key
