@@ -2,7 +2,7 @@
 import urllib2
 import re
 import time
-#ao.tak制作 vol.513
+#ao.tak制作 vol.514
 
 
 key = "sLQq2_jaKLknsqAwZ"   #后台使用的key
@@ -34,8 +34,8 @@ while True:
 
         if mobile == "0":
             break
-        if mobile == "":
-            continue
+        # if mobile == "":
+        #     continue
         if right:
             # print ("检验通过")
             fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile
