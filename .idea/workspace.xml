@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbdec62-44d6-4e6e-9486-3f6c7c2077ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/步多多/步多多修改服务器时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/看图猜成语/看图猜成语修改服务器时间.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/她星球/她星球修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/她星球/她星球修改服务器时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语获取验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语获取验证码.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -628,7 +626,7 @@
       <workItem from="1589505549467" duration="7426000" />
       <workItem from="1589718393023" duration="686000" />
       <workItem from="1589765516326" duration="6052000" />
-      <workItem from="1589853132646" duration="265000" />
+      <workItem from="1589853132646" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1588840111020</created>
@@ -707,7 +705,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589439295331</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1、新增步多多修改服务器&#10;2、修改更新备注">
+      <created>1589853564701</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589853564701</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,7 +724,8 @@
     <MESSAGE value="修改版本号" />
     <MESSAGE value="加入字段注解" />
     <MESSAGE value="5.14取消输入空判断" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.14取消输入空判断" />
+    <MESSAGE value="1、新增步多多修改服务器&#10;2、修改更新备注" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、新增步多多修改服务器&#10;2、修改更新备注" />
   </component>
   <component name="WindowStateProjectService">
     <state x="152" y="140" key="#Notifications" timestamp="1589718457844">
@@ -732,11 +738,11 @@
     </state>
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1589010564993" />
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1588061089092" />
-    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1589439295235">
+    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1589853564558">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841587704" />
-    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1589356437647" />
+    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1589853564558" />
     <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1589439295235" />
     <state x="-2465" y="172" key="DiffContextDialog" timestamp="1588841070960">
       <screen x="-2560" y="23" width="2560" height="1057" />
