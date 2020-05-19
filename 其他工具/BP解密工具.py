@@ -6,7 +6,7 @@ import json
 
 while True:
     #BP解密 （urldecode+base64）
-    A = raw_input("请输入加密内容：")
+    A = raw_input("请输入解密内容：")
     if type == "":
         continue
     B = urllib.unquote(A)#urldecode解密
