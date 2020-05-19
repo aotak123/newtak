@@ -4,13 +4,13 @@ import time
 
 # 修改服务器时间
 # 定义基础url
-url = "http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=2019-12-18%2010:53:30&f=update"#改
+url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"#改
 #查 = http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F&f=get
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
 
     if type == "1":
-        urls = "http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F&f=get"  # 疯狂猜成语暂用获取链接
+        urls = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=get"  # 她星球同步多多服务器
         request = urllib2.Request(urls)
         response = urllib2.urlopen(request)
         print"当前服务时间："

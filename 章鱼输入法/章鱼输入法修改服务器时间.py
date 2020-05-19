@@ -10,7 +10,7 @@ while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
 
     if type == "1":
-        urls = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/getTime"  # 疯狂猜成语暂用获取链接
+        urls = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/getTime"  # 章鱼输入法获取服务器时间
         request = urllib2.Request(urls)
         response = urllib2.urlopen(request)
         print"当前服务时间："

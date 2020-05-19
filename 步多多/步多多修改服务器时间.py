@@ -4,13 +4,13 @@ import time
 
 # 修改服务器时间
 # 定义基础url
-url = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time/update?f=update"
+url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"#改
 
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
 
     if type == "1":
-        urls = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time//update?f=get"  # 疯狂猜成语获取服务器时间
+        urls = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=get"  # 步多多查时间
         request = urllib2.Request(urls)
         response = urllib2.urlopen(request)
         print"当前服务时间："
@@ -36,7 +36,7 @@ while True:
             if yeartime == "0":
                 nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
                 nowtimeurl = url + "&datetime=" + nowtime
-                # print nowtimeurl
+                # print fullurl0
                 request = urllib2.Request(nowtimeurl)
                 response = urllib2.urlopen(request)
                 print (response.read())
