@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbdec62-44d6-4e6e-9486-3f6c7c2077ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/欢乐小秀才/欢乐小秀才清理师徒关系.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/欢乐小秀才/欢乐小秀才获取验证码.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他工具/BP解密工具.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他工具/BP解密工具.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他工具/base64加解密.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他工具/base64加解密.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他工具/url加解密.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他工具/url加解密.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/她星球/她星球修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/她星球/她星球修改服务器时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/她星球/她星球清理师徒关系.py" beforeDir="false" afterPath="$PROJECT_DIR$/她星球/她星球清理师徒关系.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/步多多/步多多修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/步多多/步多多修改服务器时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/步多多/步多多验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/步多多/步多多验证码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语修改服务器时间.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" beforeDir="false" afterPath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语清理师徒关系.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语获取验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/疯狂猜成语/疯狂猜成语获取验证码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/看图猜成语/看图猜成语修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/看图猜成语/看图猜成语修改服务器时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/看图猜成语/看图猜成语获取验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/看图猜成语/看图猜成语获取验证码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/章鱼输入法/章鱼输入法修改服务器时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/章鱼输入法/章鱼输入法修改服务器时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/章鱼输入法/章鱼输入法刷新云控.py" beforeDir="false" afterPath="$PROJECT_DIR$/章鱼输入法/章鱼输入法刷新云控.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -817,7 +802,7 @@
       <workItem from="1590387624832" duration="2718000" />
       <workItem from="1590407540300" duration="285000" />
       <workItem from="1590456173468" duration="7422000" />
-      <workItem from="1590558600553" duration="1575000" />
+      <workItem from="1590558600553" duration="2511000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1588840111020</created>
@@ -917,7 +902,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589871926777</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="5.27修改制作人备注">
+      <created>1590560258504</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590560258505</updated>
+    </task>
+    <task id="LOCAL-00016" summary="5.27新增欢乐小秀才项目">
+      <created>1590560345722</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590560345722</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -932,7 +931,9 @@
     <MESSAGE value="1、新增步多多修改服务器&#10;2、修改更新备注" />
     <MESSAGE value="5.19新增看图猜成语服务器时间修改" />
     <MESSAGE value="5.19新增base64加密工具以及url加密工具" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.19新增base64加密工具以及url加密工具" />
+    <MESSAGE value="5.27修改制作人备注" />
+    <MESSAGE value="5.27新增欢乐小秀才项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.27新增欢乐小秀才项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="152" y="140" key="#Notifications" timestamp="1589718457844">
@@ -945,11 +946,11 @@
     </state>
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1589010564993" />
     <state x="-2189" y="337" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1057/0.23.1440.825@-2560.23.2560.1057" timestamp="1588061089092" />
-    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1590560258347">
+    <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2" timestamp="1590560345627">
       <screen x="-2560" y="23" width="2560" height="1057" />
     </state>
     <state x="-2278" y="111" width="917" height="795" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.817@-2560.23.2560.1057" timestamp="1588841587704" />
-    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1590560258347" />
+    <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.820@-2560.23.2560.1057" timestamp="1590560345627" />
     <state x="-2278" y="111" key="CommitChangelistDialog2/-2560.23.2560.1057/0.23.1440.823@-2560.23.2560.1057" timestamp="1589439295235" />
     <state x="-2465" y="172" key="DiffContextDialog" timestamp="1588841070960">
       <screen x="-2560" y="23" width="2560" height="1057" />

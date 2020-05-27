@@ -39,7 +39,7 @@ while True:
             # imei = "863056044142477"#huawei 8x
             imei = "7ff3e7df-b96e-e8e1-baf1-f6dcf75f2be3"
             deviceid = "94764aa49bb442e5"
-            aaid = "5a2eca205675ce4903d7f8d3881e5a6f"
+            aaid = "461f14fe628616f42a085259e39cc978"
             oaid = "7ff3e7df-b96e-e8e1-baf1-f6dcf75f2be3"
 
         if imei == "4":
