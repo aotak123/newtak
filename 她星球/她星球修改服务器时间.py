@@ -1,8 +1,8 @@
 # coding=utf-8
 import urllib2
 import time
+####################——————tak制作  vol.527——————####################
 
-# 修改服务器时间
 # 定义基础url
 url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"#改
 #查 = http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F&f=get

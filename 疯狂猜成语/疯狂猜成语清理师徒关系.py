@@ -1,5 +1,6 @@
 # coding=utf-8
 import urllib2
+####################——————tak制作  vol.527——————####################
 
 #http://10.10.44.27:8020/testcleantools/cleanimei?apptypeid=100012&imei=test20200227   需要vpn
 #106.75.6.212:8020

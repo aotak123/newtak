@@ -1,6 +1,6 @@
 # coding=utf-8
 import base64
-
+####################——————tak制作  vol.527——————####################
 
 while True:
     type = raw_input("\033[30m \n 请选择：\n 1：base64加密\n 2：base64解密\n ")

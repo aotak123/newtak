@@ -1,8 +1,8 @@
 # coding=utf-8
 import urllib2
 import time
+####################——————tak制作  vol.527——————####################
 
-# 修改服务器时间
 # 定义基础url
 url = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/updateTime?date="
 

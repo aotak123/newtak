@@ -1,9 +1,8 @@
 # coding=utf-8
 import urllib2
 import time
+####################——————tak制作  vol.527——————####################
 
-# 修改服务器时间
-# 定义基础url
 url = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time/update?f=update"
 
 while True:
