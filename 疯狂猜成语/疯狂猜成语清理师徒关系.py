@@ -32,8 +32,8 @@ while True:
             deviceid = "f8a37fcb1c827dce"
 
         if imei == "2":
-            imei = "7DD773FA-74C2-455B-A893-C6A3BB8A79D3"
-            deviceid = "0019F7F2-A320-44CF-B348-88A5E10E0810"#"#iphone 7plus
+            imei = "9CFBCE03-BAE2-42DE-81CF-C537A1AD1D59"
+            deviceid = "F95F0A62-8C6E-40B5-ABE2-D855D49742F1"#"#iphone 7plus
 
         if imei == "3":
             # imei = "863056044142477"#huawei 8x
