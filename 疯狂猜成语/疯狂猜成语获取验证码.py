@@ -2,7 +2,7 @@
 import urllib2
 import re
 import time
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.602——————####################
 
 
 key = "sLQq2_jaKLknsqAwZ"   #后台使用的key
@@ -38,7 +38,7 @@ while True:
         #     continue
         if right:
             # print ("检验通过")    #校验手机号打印结果
-            fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile
+            fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile   #拼接链接
 
             # print fullurl   #打印请求地址
 
@@ -51,7 +51,7 @@ while True:
                 if num == '查不到！':  #如果接口没有返回没有查到则不记录
                     continue
                 else:
-                    with open(testmobile,'r+') as file_object:   #打开记录execl文件
+                    with open(testmobile,'r+') as file_object:   #打开记录记录文件
                         pi_string = ''
                         for lines in file_object:
                             pi_string += lines.strip()
