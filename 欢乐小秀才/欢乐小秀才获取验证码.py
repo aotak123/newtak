@@ -62,7 +62,7 @@ while True:
                             file_object.write(mobile + "\t")    #\t = tab  \n = 换行
                             file_object.write(nowtime + "\n")
 
-            if url == "https://u-hxxc.tt.cn/login/main_login/testtool":      #正式环境写入手机号纪录
+            if url == "https://u.happyxiaoxiucai.com/login/main_login/testtool":      #正式环境写入手机号纪录
                 if num == '查不到！':    #如果接口没有返回没有查到则不记录
                     continue
                 else:
