@@ -2,7 +2,7 @@
 import urllib2
 import re
 import time
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.605——————####################
 
 
 key = "sLQq2_jaKLknsqAwZ"   #后台使用的key
@@ -19,10 +19,10 @@ while True:
         url = "http://test-u-hxxc.tt.cn/login/main_login/testtool"
     if type == "3":
         type = "1"
-        url = "http://u-hxxc.tt.cn/login/main_login/testtool"
+        url = "https://u.happyxiaoxiucai.com/login/main_login/testtool"
     if type == "4":
         type = "2"
-        url = "http://u-hxxc.tt.cn/login/main_login/testtool"
+        url = "https://u.happyxiaoxiucai.com/login/main_login/testtool"
 
 
     while True:  # 无限循环语句
@@ -40,7 +40,7 @@ while True:
             # print ("检验通过")    #校验手机号打印结果
             fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile
 
-            # print fullurl   #打印请求地址
+            print fullurl   #打印请求地址
 
             request = urllib2.Request(fullurl)   #拼接请求
             response = urllib2.urlopen(request)  #请求链接
@@ -62,7 +62,7 @@ while True:
                             file_object.write(mobile + "\t")    #\t = tab  \n = 换行
                             file_object.write(nowtime + "\n")
 
-            if url == "http://test-u-hxxc.tt.cn/login/main_login/testtool":      #正式环境写入手机号纪录
+            if url == "https://u-hxxc.tt.cn/login/main_login/testtool":      #正式环境写入手机号纪录
                 if num == '查不到！':    #如果接口没有返回没有查到则不记录
                     continue
                 else:
