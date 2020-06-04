@@ -40,7 +40,7 @@ while True:
             # print ("检验通过")    #校验手机号打印结果
             fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile
 
-            print fullurl   #打印请求地址
+            # print fullurl   #打印请求地址
 
             request = urllib2.Request(fullurl)   #拼接请求
             response = urllib2.urlopen(request)  #请求链接
