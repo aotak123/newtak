@@ -3,7 +3,7 @@
 import urllib
 import base64
 import json
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 while True:
     #BP解密 （urldecode+base64）

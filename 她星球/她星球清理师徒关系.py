@@ -43,4 +43,4 @@ while True:  # 无限循环语句
     # print fullurl
     request = urllib2.Request(fullurl)
     response = urllib2.urlopen(request)
-    print imei + "  " + (response.read())
+    print (imei + "  " + (response.read()))

@@ -36,4 +36,4 @@ while True:
 
     request = urllib2.Request(fullurl)
     response = urllib2.urlopen(request)
-    print imei + "  " + (response.read())
+    print (imei + "  " + (response.read()))

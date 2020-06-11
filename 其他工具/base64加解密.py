@@ -1,6 +1,6 @@
 # coding=utf-8
 import base64
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 while True:
     type = raw_input("\033[30m \n 请选择：\n 1：base64加密\n 2：base64解密\n ")
@@ -10,7 +10,7 @@ while True:
             continue
         else:
             A = base64.b64encode(note1)  # base64解密
-            print A
+            print (A)
 
     if type == "2":
         note2 = raw_input("\033[30m 请输入需要解密的内容\返回请输入:0 \033[0m \n")
@@ -18,4 +18,4 @@ while True:
             continue
         else:
             B = base64.b64decode(note2)  # base64解密
-            print B
+            print (B)

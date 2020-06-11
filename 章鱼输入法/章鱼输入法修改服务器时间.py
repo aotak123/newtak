@@ -15,7 +15,7 @@ while True:
         urls = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/getTime"  # 章鱼输入法获取服务器时间
         request = urllib2.Request(urls)
         response = urllib2.urlopen(request)
-        print"当前服务时间："
+        print ("当前服务时间：")
         print (response.read())
         # break
 
@@ -25,14 +25,14 @@ while True:
         # print fullurl
         request = urllib2.Request(fullurl2)
         response = urllib2.urlopen(request)
-        print"已恢复当前服务时间："
+        print ("已恢复当前服务时间：")
         print (response.read())
         # break
 
     if type == "3":
         while True:  # 无限循环语句
             nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
-            print "例如：" + nowtime
+            print ("例如：" + nowtime)
             yeartime = raw_input("请输入你想修改的时间：            ！！！请复制例子进行修改时间！！！\n恢复当前时间请输入：0\n")
             #请使用例子中的格式，不得有误
             if yeartime == "0":

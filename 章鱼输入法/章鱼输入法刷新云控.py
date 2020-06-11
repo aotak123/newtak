@@ -7,7 +7,7 @@ url = "https://test-zhangyu3.zhihuizhangyu.cn/zycloudcontrol/cloud.basis?pwd=147
 request = urllib2.Request(url)
 response = urllib2.urlopen(request)
 # print (response.read())
-print"刷新成功"
+print ("刷新成功")
 
 
 

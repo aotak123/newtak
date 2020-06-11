@@ -1,6 +1,6 @@
 # coding=utf-8
 import urllib
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 
 while True:
@@ -11,7 +11,7 @@ while True:
             continue
         else:
             A = urllib.quote(note1) # url加密
-            print A
+            print (A)
 
     if type == "2":
         note2 = raw_input("\033[30m 请输入需要解密的内容\返回请输入:0 \033[0m \n")
@@ -19,4 +19,4 @@ while True:
             continue
         else:
             B = urllib.unquote(note2)  # url解密
-            print B
+            print (B)
