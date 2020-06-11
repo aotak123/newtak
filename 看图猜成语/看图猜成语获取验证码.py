@@ -2,12 +2,12 @@
 import urllib2
 import re
 import time
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 
 key = "sLQq2_jaKLknsqAwZ"   #后台使用的key
-# testmobile = '/Users/aotak/Documents/看图测试手机号名单.xlsx'
-# realmobile = '/Users/aotak/Documents/看图正式手机号名单.xlsx'
+testmobile = '/Users/aotak/Documents/看图测试手机号名单.xlsx'
+realmobile = '/Users/aotak/Documents/看图正式手机号名单.xlsx'
 
 
 while True:
@@ -15,14 +15,24 @@ while True:
 
     if type == "1":
         url = "http://test-u.kantuccy.com/login/main_login/testtool"
+
     if type == "2":
         url = "http://test-u.kantuccy.com/login/main_login/testtool"
+
     if type == "3":
         type = "1"
         url = "https://u.kantuccy.com/login/main_login/testtool"
+
     if type == "4":
         type = "2"
         url = "https://u.kantuccy.com/login/main_login/testtool"
+
+    if type == "0":
+        continue
+
+    elif type > "4":
+        continue
+
 
 
     while True:  # 无限循环语句
@@ -47,35 +57,35 @@ while True:
             num = response.read()
             print ("\033[1;31m 您的验证码： \033[0m" + num)
 
-            # if url == "http://test-u.kantuccy.com/login/main_login/testtool":#测试环境写入手机号纪录
-            #     # if num == '查不到！':
-            #     #     continue
-            #     # else:
-            #         with open(testmobile,'r+') as file_object:
-            #             pi_string = ''
-            #             for lines in file_object:
-            #                 pi_string += lines.strip()
-            #             if mobile in pi_string:#判断手机号是否存在于表内
-            #                 continue#在表内不做写入
-            #             else:
-            #                 nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')
-            #                 file_object.write(mobile + "\t") #\t = tab  \n = 换行
-            #                 file_object.write(nowtime + "\n")
-            #
-            # if url == "https://u.kantuccy.com/login/main_login/testtool":#正式环境写入手机号纪录
-            #     if num == '查不到！':
-            #         continue
-            #     else:
-            #         with open(realmobile,'r+') as file_object:
-            #             pi_string = ''
-            #             for lines in file_object:
-            #                 pi_string += lines.strip()
-            #             if mobile in pi_string: #判断手机号是否存在于表内
-            #                 continue#在表内不做写入
-            #             else:
-            #                 nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')
-            #                 file_object.write(mobile + "\t")  # \t = tab  \n = 换行
-            #                 file_object.write(nowtime + "\n")
+            if url == "http://test-u.kantuccy.com/login/main_login/testtool":#测试环境写入手机号纪录
+                # if num == '查不到！':
+                #     continue
+                # else:
+                    with open(testmobile,'r+') as file_object:
+                        pi_string = ''
+                        for lines in file_object:
+                            pi_string += lines.strip()
+                        if mobile in pi_string:#判断手机号是否存在于表内
+                            continue#在表内不做写入
+                        else:
+                            nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')
+                            file_object.write(mobile + "\t") #\t = tab  \n = 换行
+                            file_object.write(nowtime + "\n")
+
+            if url == "https://u.kantuccy.com/login/main_login/testtool":#正式环境写入手机号纪录
+                if num == '查不到！':
+                    continue
+                else:
+                    with open(realmobile,'r+') as file_object:
+                        pi_string = ''
+                        for lines in file_object:
+                            pi_string += lines.strip()
+                        if mobile in pi_string: #判断手机号是否存在于表内
+                            continue#在表内不做写入
+                        else:
+                            nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')
+                            file_object.write(mobile + "\t")  # \t = tab  \n = 换行
+                            file_object.write(nowtime + "\n")
 
         else:
             print ("\033[1;31m！！!手机号码错误，请重新输入！！!\033[0m")

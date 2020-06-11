@@ -7,6 +7,8 @@ url = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time/update?f=update
 
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
+    if type == "0":
+        continue
 
     if type == "1":
         urls = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time//update?f=get"  # 疯狂猜成语获取服务器时间
@@ -47,3 +49,6 @@ while True:
                 request = urllib2.Request(fullurl3)
                 response = urllib2.urlopen(request)
                 print (response.read())
+
+    elif type > "3":
+        continue

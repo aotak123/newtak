@@ -1,13 +1,16 @@
 # coding=utf-8
 import urllib2
 import time
-####################——————tak制作  vol.527——————####################
+
+####################——————tak制作  vol.611——————####################
 
 # 定义基础url
-url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"#改
-#查 = http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F&f=get
+url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"  # 改
+# 查 = http://test-servertime.yiqibuduoduo.com/update_time/update?datetime=%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F&f=get
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
+    if type == "0":
+        continue
 
     if type == "1":
         urls = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=get"  # 她星球同步多多服务器
@@ -32,7 +35,7 @@ while True:
             nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
             print "例如：" + nowtime
             yeartime = raw_input("请输入你想修改的时间：            ！！！请复制例子进行修改时间！！！\n恢复当前时间请输入：0\n")
-            #请使用例子中的格式，不得有误
+            # 请使用例子中的格式，不得有误
             if yeartime == "0":
                 nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
                 nowtimeurl = url + "&datetime=" + nowtime
@@ -48,3 +51,6 @@ while True:
                 request = urllib2.Request(fullurl3)
                 response = urllib2.urlopen(request)
                 print (response.read())
+
+    elif type > "3":
+        continue

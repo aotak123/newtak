@@ -1,6 +1,6 @@
 # coding=utf-8
 import urllib2
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 # 获取验证码
 # 定义基础url
@@ -25,6 +25,12 @@ while True:
     if type == "4":
         type = "2"
         url = "http://u.yiqibuduoduo.com/login/main_login/testtool"
+
+    if type == "0":
+        continue
+
+    elif type > "4":
+        continue
 
     while True:  # 无限循环语句
         mobile = raw_input("请输入要查询的手机号\返回请输入0\n")

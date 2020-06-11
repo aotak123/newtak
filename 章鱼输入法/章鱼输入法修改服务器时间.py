@@ -1,13 +1,15 @@
 # coding=utf-8
 import urllib2
 import time
-####################——————tak制作  vol.527——————####################
+####################——————tak制作  vol.611——————####################
 
 # 定义基础url
 url = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/updateTime?date="
 
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
+    if type == "0":
+        continue
 
     if type == "1":
         urls = "http://test-zhangyu3.zhihuizhangyu.cn/spring-boot-update-time/timeOper/getTime"  # 章鱼输入法获取服务器时间
@@ -48,3 +50,6 @@ while True:
                 request = urllib2.Request(fullurl3)
                 response = urllib2.urlopen(request)
                 print (response.read())
+
+    elif type > "3":
+        continue
