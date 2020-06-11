@@ -1,6 +1,7 @@
 # coding=utf-8
 import urllib2
 import time
+
 ####################——————tak制作  vol.527——————####################
 
 url = "http://test-task-fkccy.tiantianshuibaobao.com/Update_time/update?f=update"
@@ -33,7 +34,7 @@ while True:
             nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
             print ("例如：" + nowtime)
             yeartime = raw_input("请输入你想修改的时间：            ！！！请复制例子进行修改时间！！！\n恢复当前时间请输入：0\n")
-            #请使用例子中的格式，不得有误
+            # 请使用例子中的格式，不得有误
             if yeartime == "0":
                 nowtime = time.strftime('%Y-%m-%d%%20%H:%M:%S')
                 nowtimeurl = url + "&datetime=" + nowtime

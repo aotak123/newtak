@@ -1,9 +1,10 @@
 # coding=utf-8
 import urllib2
+
 ####################——————tak制作  vol.611——————####################
 
-#http://10.10.44.27:8020/testcleantools/cleanimei?apptypeid=100012&imei=test20200227   需要vpn
-#106.75.6.212:8020
+# http://10.10.44.27:8020/testcleantools/cleanimei?apptypeid=100012&imei=test20200227   需要vpn
+# 106.75.6.212:8020
 
 # while True:
 #     a = raw_input("\n 请输入获取的类型：\n 1：测试环境清除\n 2：正式环境清除（无法使用）\n ")

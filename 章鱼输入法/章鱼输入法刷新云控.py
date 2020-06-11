@@ -1,5 +1,6 @@
 # coding=utf-8
 import urllib2
+
 ####################——————tak制作  vol.527——————####################
 
 # 定义基础url
@@ -8,6 +9,3 @@ request = urllib2.Request(url)
 response = urllib2.urlopen(request)
 # print (response.read())
 print ("刷新成功")
-
-
-
