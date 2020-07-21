@@ -7,25 +7,25 @@ import time
 
 
 key = "sLQq2_jaKLknsqAwZ"  # 后台使用的key
-testmobile = '/Users/aotak/Documents/测试手机号名单.xlsx'
-realmobile = '/Users/aotak/Documents/正式手机号名单.xlsx'
+testmobile = '/Users/aotak/Documents/多多守护测试手机号名单.xlsx'
+realmobile = '/Users/aotak/Documents/多多守护正式手机号名单.xlsx'
 
 while True:
     type = raw_input("\033[30m \n 请输入验证码类型：\n 1：测试登录 \n 2：测试绑定 \n 3：正式登录 \n 4：正式绑定 \033[0m\n")
 
     if type == "1":
-        url = "http://test-uc.crazyccy.com/login/main_login/testtool"
+        url = "http://test-u.tiantianshouhu.com/login/main_login/testtool"
 
     if type == "2":
-        url = "http://test-uc.crazyccy.com/login/main_login/testtool"
+        url = "http://test-u.tiantianshouhu.com/login/main_login/testtool"
 
-    if type == "3":
-        type = "1"
-        url = "https://uc.crazyccy.com/login/main_login/testtool"
-
-    if type == "4":
-        type = "2"
-        url = "https://uc.crazyccy.com/login/main_login/testtool"
+    # if type == "3":
+    #     type = "1"
+    #     url = "https://uc.crazyccy.com/login/main_login/testtool"
+    #
+    # if type == "4":
+    #     type = "2"
+    #     url = "https://uc.crazyccy.com/login/main_login/testtool"
 
     if type == "0":
         continue
