@@ -3,7 +3,7 @@ import urllib2
 import re
 import time
 
-####################——————tak制作  vol.611——————####################
+####################——————tak制作  vol.722——————####################
 
 
 key = "sLQq2_jaKLknsqAwZ"  # 后台使用的key
@@ -19,13 +19,13 @@ while True:
     if type == "2":
         url = "http://test-u.tiantianshouhu.com/login/main_login/testtool"
 
-    # if type == "3":
-    #     type = "1"
-    #     url = "https://uc.crazyccy.com/login/main_login/testtool"
-    #
-    # if type == "4":
-    #     type = "2"
-    #     url = "https://uc.crazyccy.com/login/main_login/testtool"
+    if type == "3":
+        type = "1"
+        url = "https://u.tiantianshouhu.com/login/main_login/testtool"
+
+    if type == "4":
+        type = "2"
+        url = "https://u.tiantianshouhu.com/login/main_login/testtool"
 
     if type == "0":
         continue
@@ -48,14 +48,14 @@ while True:
             # print ("检验通过")    #校验手机号打印结果
             fullurl = url + "?key=" + key + "&type=" + type + "&mobile=" + mobile  # 拼接链接
 
-            # print fullurl   #打印请求地址
+            print fullurl   #打印请求地址
 
             request = urllib2.Request(fullurl)  # 拼接请求
             response = urllib2.urlopen(request)  # 请求链接
             num = response.read()  # 读取页面信息
             print ("\033[1;31m 您的验证码： \033[0m" + num)
 
-            if url == "http://test-uc.crazyccy.com/login/main_login/testtool":  # 测试环境写入手机号纪录
+            if url == "http://test-u.tiantianshouhu.com/login/main_login/testtool":  # 测试环境写入手机号纪录
                 if num == '查不到！':  # 如果接口没有返回没有查到则不记录
                     continue
                 else:
@@ -70,7 +70,7 @@ while True:
                             file_object.write(mobile + "\t")  # \t = tab  \n = 换行
                             file_object.write(nowtime + "\n")
 
-            if url == "https://uc.crazyccy.com/login/main_login/testtool":  # 正式环境写入手机号纪录
+            if url == "https://u.tiantianshouhu.com/login/main_login/testtool":  # 正式环境写入手机号纪录
                 if num == '查不到！':  # 如果接口没有返回没有查到则不记录
                     continue
                 else:
