@@ -48,6 +48,11 @@ while True:  # 无限循环语句
         imei = "43e219e4af34ad4e"  # 黑鲨
         deviceid = "43e219e4af34ad4e"
 
+    if imei == "5":
+        imei = "c63aceb7-ff6f-f992-fbee-bf7775df65e0"  # huawei
+        deviceid = "68c8d0e8e4363bac"
+        aaid = "520ddf3535f096b214f21787eecc4b81"
+
     fullurl = url + imei
     # print fullurl
     request = urllib2.Request(fullurl)
