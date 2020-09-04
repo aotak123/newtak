@@ -64,6 +64,7 @@ while True:
                         for lines in file_object:
                             pi_string += lines.strip()
                         if mobile in pi_string:  # 判断手机号是否存在于表内
+                            print ("手机号已存在表内")
                             continue  # 表内不做写入
                         else:
                             nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')  # 获取当前时间
@@ -79,6 +80,7 @@ while True:
                         for lines in file_object:
                             pi_string += lines.strip()
                         if mobile in pi_string:  # 判断手机号是否存在于表内
+                            print ("手机号已存在表内")
                             continue  # 在表内不做写入
                         else:
                             nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')  # 获取当前时间
