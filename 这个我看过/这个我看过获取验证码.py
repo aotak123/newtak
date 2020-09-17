@@ -20,11 +20,11 @@ while True:
 
     if type == "3":
         type = "1"
-        url = "https://zgwkg-u.tt.cn/login/main_login/testtool"
+        url = "https://u.zhegewokanguo.com/login/main_login/testtool"
 
     if type == "4":
         type = "2"
-        url = "https://zgwkg-u.tt.cn/login/main_login/testtool"
+        url = "https://u.zhegewokanguo.com/login/main_login/testtool"
 
     if type == "0":
         continue
