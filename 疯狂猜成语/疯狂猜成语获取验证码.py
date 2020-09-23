@@ -53,7 +53,6 @@ while True:
             request = urllib2.Request(fullurl)  # 拼接请求
             response = urllib2.urlopen(request)  # 请求链接
             num = response.read()  # 读取页面信息
-            print ("\033[1;31m 您的验证码： \033[0m" + num)
 
             if url == "http://test-uc.crazyccy.com/login/main_login/testtool":  # 测试环境写入手机号纪录
                 with open(testmobile, 'r') as file_object:  # 打开记录记录文件
@@ -61,7 +60,9 @@ while True:
                     for lines in file_object:
                         pi_string += lines.strip()
                     if mobile in pi_string:  # 判断手机号是否存在于表内
-                        print ("手机号已存在表内")
+                        print ("该手机号已在表内|" + " \033[1;31m 您的验证码： \033[0m" + num)
+                    else:
+                        print ("该手机号为新账号|" + " \033[1;31m 您的验证码： \033[0m" + num)
                 if num == '查不到！':  # 如果接口没有返回没有查到则不记录
                     continue
                 else:
@@ -70,7 +71,6 @@ while True:
                         for lines in file_object:
                             pi_string += lines.strip()
                         if mobile in pi_string:  # 判断手机号是否存在于表内
-                            print ("手机号已存在表内")
                             continue  # 表内不做写入
                         else:
                             nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')  # 获取当前时间
@@ -83,7 +83,9 @@ while True:
                     for lines in file_object:
                         pi_string += lines.strip()
                     if mobile in pi_string:  # 判断手机号是否存在于表内
-                        print ("手机号已存在表内")
+                        print ("该手机号已在表内|" + " \033[1;31m 您的验证码： \033[0m" + num)
+                    else:
+                        print ("该手机号为新账号|" + " \033[1;31m 您的验证码： \033[0m" + num)
                 if num == '查不到！':  # 如果接口没有返回没有查到则不记录
                     continue
                 else:
@@ -92,7 +94,6 @@ while True:
                         for lines in file_object:
                             pi_string += lines.strip()
                         if mobile in pi_string:  # 判断手机号是否存在于表内
-                            print ("手机号已存在表内")
                             continue  # 在表内不做写入
                         else:
                             nowtime = time.strftime('%Y-%m-%d% %H:%M:%S')  # 获取当前时间
