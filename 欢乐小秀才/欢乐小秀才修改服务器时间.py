@@ -6,7 +6,7 @@ import time
 
 
 # 定义基础url
-url = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=update"
+url = "http://106.75.7.235/update_time.php?f=update"
 
 while True:
     type = raw_input("\n 请输入数字：\n 1：查询时间\n 2：恢复时间\n 3：修改时间\n")
@@ -14,7 +14,7 @@ while True:
         continue
 
     if type == "1":
-        urls = "http://test-servertime.yiqibuduoduo.com/update_time/update?f=get"  # 步多多查时间
+        urls = "http://106.75.7.235/update_time.php?f=get"  # 步多多查时间
         request = urllib2.Request(urls)
         response = urllib2.urlopen(request)
         print ("当前服务时间：")
